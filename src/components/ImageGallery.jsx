@@ -4,6 +4,7 @@ import LoaderBtn from './Button';
 import Loading from './Loadmore';
 import Modal from './Modal';
 import fetchImg from '../api/GetImages';
+
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 class ImageGallery extends Component {
